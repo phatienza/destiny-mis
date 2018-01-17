@@ -12,7 +12,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#about">ABOUT</a></li>
         <li><a href="#services">MIS APPS</a></li>
-        <li><a href="#portfolio">WHO WE ARE</a></li>
+        <li><a href="#portfolio">MIS TEAM</a></li>
         <li><a href="#contact">CONTACT</a></li>
       </ul>
     </div>
